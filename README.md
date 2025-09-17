@@ -11,7 +11,6 @@
 - 💼 Junior Data Analyst | Power BI, SQL, Excel, Data Warehousing<br>
 - 🚀 Aspiring Data Engineer | BI Intern at ITI<br>
 - 🔭 Interested in Data Science, Data Engineering, and Business Intelligence<br>
-- 📚 Currently improving my skills in Data Structures, Algorithms, and Machine Learning<br>
 - ⚡ Passionate about turning data into insights and building scalable data solutions
 </p>
 
